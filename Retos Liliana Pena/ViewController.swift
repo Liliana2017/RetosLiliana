@@ -30,7 +30,7 @@ class ViewController: UIViewController {
 
 // Mini Reto 1 Liliana Pena
 
-/* Como en este reto, no estoy segura de que se pueda crear una Funcion, entonces lo realice de la siguiente forma super arcaica:
+/* Como en este reto, no creo que se pueda crear una Funcion, entonces lo realice de la siguiente forma:
  
  */
 
